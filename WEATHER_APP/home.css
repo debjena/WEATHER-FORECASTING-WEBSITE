@@ -1,0 +1,41 @@
+body {
+    
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    background-image: url(./Hnet.com-image\ \(1\).jpg);
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button
+{
+    margin-top: 220px;
+    width: 270px;
+    padding: 15px;
+    font-size: 25px;
+    background-color:burlywood;
+    border-radius: 20px;
+}
+button:hover
+{
+    background-color: darkseagreen;
+}
+a
+{
+    color: aliceblue;
+    text-decoration: none;
+}
+p 
+{
+  background-color: rgb(43, 226, 98);
+  font-size: 40px;
+  font-family: cursive;
+  text-align: rgb(7, 7, 7);
+  padding:10px 30px;
+  position: relative;
+  bottom: 40px;
+}

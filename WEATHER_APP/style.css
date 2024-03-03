@@ -1,0 +1,29 @@
+
+*{
+    box-sizing: border-box;
+    
+        
+}
+
+body {
+    
+    font-size: 16px;
+    font-family: forte, Geneva, Tahoma, sans-serif;
+   
+    background-image: url(./Hnet.com-image\ \(1\).jpg);
+    background-size: cover;
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
